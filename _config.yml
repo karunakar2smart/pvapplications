@@ -1,0 +1,3 @@
+url: "/"
+baseurl: "/"
+exclude: [node_modules, README.md]
