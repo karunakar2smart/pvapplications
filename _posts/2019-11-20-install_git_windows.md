@@ -2,7 +2,7 @@
 title: Notification Number Three.
 permalink: Blog/123.html
 layout: post
-image: upload/1.jpg
+image: https://karunakar2smart.github.io/pvapplications/upload/1.jpg
 description: "The following set of instructions details how to install Git on Windows. You can either install it as a package or via another installer or download the source code and compile it. Git for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate use."
 datepublished: "2019-11-20E"
 datemodified: "2019-11-20E"

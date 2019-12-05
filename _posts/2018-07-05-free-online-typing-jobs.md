@@ -2,7 +2,7 @@
 title: Latest Notification Regarding to something.
 permalink: /12.html
 layout: post
-image: upload/1.jpg
+image: https://karunakar2smart.github.io/pvapplications/upload/1.jpg
 description: "Best ways to et working from home. These typing jobs are free to register & signup."
 datepublished: "2018-07-06"
 datemodified: "2019-08-30"

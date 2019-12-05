@@ -2,7 +2,7 @@
 title: Here Is Some Of The Awesome Title Regarding To Something.
 permalink: /1234.html
 layout: post
-image: upload/kolotibablo-online-typing-job.png
+image: https://karunakar2smart.github.io/pvapplications/upload/kolotibablo-online-typing-job.png
 description: "Kolotibablo is the best online captcha typing job as we can earn money online by working from home by completing free new registration. We use kolotibablo app(bot) & software to work in android mobile and pc respectively & receive weekly payments. Many kolotibablo reviews & payment proofs prove that kolotibablo is the best online captcha typing job."
 datepublished: "2018-09-25"
 datemodified: "2019-08-30"
